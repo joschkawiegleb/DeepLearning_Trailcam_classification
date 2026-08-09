@@ -25,7 +25,7 @@ This notebook guides students through training, evaluating, and deploying a pre-
 
 ---
 
-## 💡 Key Learning Objectives
+## Key Learning Objectives
 
 1. **Transfer Learning Fundamentals:** Understand how pre-trained computer vision models (ImageNet backbone) adapt to ecological tasks with minimal training time.
 2. **Learning Curve & Overfitting Analysis:** Recognize the 3 stages of model learning (underfitting, optimal performance, and background memorization) using dual-axis loss and accuracy plots.
